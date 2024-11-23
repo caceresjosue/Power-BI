@@ -25,8 +25,9 @@ utilizando datos ficticios (dummy data) con fines de desarrollo y pruebas.
           4. Tablas dinámicas con métricas detalladas por agente.
 
 ## Objetivo
-          Este proyecto tiene como objetivo mostrar habilidades en el desarrollo de visualizaciones de datos con Power BI y demostrar cómo estos 
-          análisis pueden ayudar en la optimización de recursos y la mejora de la experiencia del cliente en un entorno de atención médica.  
+          Este proyecto tiene como objetivo mostrar habilidades en el desarrollo de visualizaciones de datos con Power BI 
+          y demostrar cómo estos análisis pueden ayudar en la optimización de recursos y la mejora de la experiencia del 
+          cliente en un entorno de atención médica.  
 
 ## Captura del Dashboard
 
@@ -43,6 +44,7 @@ utilizando datos ficticios (dummy data) con fines de desarrollo y pruebas.
           - Datos ficticios: Simulan las operaciones reales de un call center.              
 
 ## Notas
-     - Este proyecto es únicamente para fines educativos y de demostración. Todos los datos presentados son ficticios y no representan datos reales.
+     - Este proyecto es únicamente para fines educativos y de demostración. Todos los datos presentados son ficticios y no 
+       representan datos reales.
 
 ![alt text](image.png)
