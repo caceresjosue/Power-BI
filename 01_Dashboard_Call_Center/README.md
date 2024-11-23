@@ -1,4 +1,4 @@
-# Dashboard Call Center Report - Plan Médico
+# Call Center Performance Dashboard
 
 Este repositorio contiene un dashboard interactivo desarrollado en Power BI que simula la funcionalidad de un call center de un plan médico, 
 utilizando datos ficticios (dummy data) con fines de desarrollo y pruebas.
