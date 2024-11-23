@@ -47,4 +47,4 @@ utilizando datos ficticios (dummy data) con fines de desarrollo y pruebas.
      - Este proyecto es únicamente para fines educativos y de demostración. Todos los datos presentados son ficticios y no 
        representan datos reales.
 
-![alt text](image.png)
+![alt text](image-1.png)
