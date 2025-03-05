@@ -2,7 +2,9 @@
 
 
 ## Descripción del Proyecto
- 
+     Este proyecto tiene como objetivo medir y analizar la distribución de proveedores de salud en Puerto Rico según su especialidad y edad. A través de este análisis, buscamos obtener una visión integral del panorama de los proveedores de salud en la isla, identificando posibles brechas y oportunidades de mejora.
+
+     Los datos obtenidos permitirán diseñar estrategias más efectivas para optimizar la oferta de servicios de salud, garantizar una mejor distribución de especialistas y fomentar políticas que fortalezcan el sistema de salud en Puerto Rico. Con esta información, se podrán tomar decisiones informadas para mejorar el acceso y la calidad de los servicios médicos en la población.
 
 ## Características Principales:
 
